@@ -12,4 +12,5 @@ A simple Python-based multiple-choice quiz that fetches computer science questio
 1. Make sure Python 3 is installed
 2. Run the script:
 ```bash
-python cse-quiz
+python cse-quiz.py
+
