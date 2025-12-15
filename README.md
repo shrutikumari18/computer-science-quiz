@@ -6,7 +6,7 @@ A simple Python-based multiple-choice quiz that fetches computer science questio
 - Fetches random computer science questions
 - Multiple-choice answers
 - Shows score and percentage at the end
-- Interactive Tkinter GUI
+  
 
 ## How to run
 1. Make sure Python 3 is installed
