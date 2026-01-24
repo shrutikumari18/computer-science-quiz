@@ -3,9 +3,9 @@ A Computer Science related set of Quiz which includes 5 subjects, 1. python, 2. 
 A simple Python-based multiple-choice quiz that fetches computer science questions from the Open Trivia Database API.
 
 ## Features
-- Fetches random computer science questions
-- Multiple-choice answers
-- Shows score and percentage at the end
+- Fetches random computer science questions.
+- Multiple-choice answers.
+- Shows score and percentage at the end.
   
 
 ## How to run
